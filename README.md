@@ -1,7 +1,7 @@
 # swift-string-operations
 
-Palindrome example
+Palindrome Example
 
-• Check if string is palindrome
+•  Check if string is palindrome
 
-• Find unwanted character index to find palindrome 
+•  Find index of unwanted character to find palindrome 
