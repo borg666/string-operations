@@ -9,7 +9,8 @@ class Palindrome {
             result.removeSubrange(start...end)
 
             if isPalindrome(value: result) {
-                print(result, "found a palindrome removed index=", index)
+                print(result, "startOffset=\(index) endOffset=\(index - value.count)",
+                    "found a palindrome removed character at index=", index)
                 return index
             }
         }
