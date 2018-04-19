@@ -1,3 +1,5 @@
+//https://stackoverflow.com/questions/39677330/how-does-string-substring-work-in-swift
+
 class Palindrome {
 
     func findUnwantedCharacter(value: String) -> Int? {
